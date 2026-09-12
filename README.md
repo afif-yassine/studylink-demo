@@ -6,12 +6,14 @@ Prototype front-end réalisé pour la soutenance **Studylink** : une plateforme 
 
 ## Fonctionnalités
 
-- recherche de tuteurs par campus et par matière ;
-- profils de tuteurs avec tarif, note et disponibilités ;
-- réservation d’un créneau et paiement simulé ;
-- tableau de bord étudiant ;
-- tableau de bord tuteur avec gestion des demandes ;
-- tableau de bord campus et programme solidaire ;
+- marketplace avec matching par campus, matière et disponibilité ;
+- profils vérifiés, favoris, avis et score de compatibilité ;
+- réservation en trois étapes, code BDE et paiement simulé ;
+- espace étudiant avec agenda, progression, ressources et crédit solidaire ;
+- espace tuteur avec demandes, planning, revenus et Profil Pro ;
+- portail campus avec budget B2B, cohortes et indicateurs RGPD ;
+- console opérations avec MRR, SLA, support, paiements et vérifications ;
+- actions interactives et notifications sur tous les parcours ;
 - interface responsive pour ordinateur et mobile.
 
 > Cette version utilise des données fictives. Aucun paiement réel n’est effectué.
