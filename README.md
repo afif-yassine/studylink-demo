@@ -2,6 +2,8 @@
 
 Prototype front-end réalisé pour la soutenance **Studylink** : une plateforme qui met en relation des étudiants avec des tuteurs de leur campus.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/afif-yassine/studylink-demo)
+
 ## Fonctionnalités
 
 - recherche de tuteurs par campus et par matière ;
